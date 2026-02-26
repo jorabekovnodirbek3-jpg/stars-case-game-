@@ -1,4 +1,4 @@
-# stars-case-game-.
+index.html
 <!DOCTYPE html>
 <html lang="uz">
 <head>
